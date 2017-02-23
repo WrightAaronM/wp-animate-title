@@ -5,7 +5,7 @@
  */
 /*
 Plugin Name: Animate Title
-Plugin URI: http://aaronwright.net
+Plugin URI: https://github.com/WrightAaronM/wp-animate-title
 Description: Uses Animate.css to animate the blog post title
 Author: Aaron Wright
 Version: 1.0
